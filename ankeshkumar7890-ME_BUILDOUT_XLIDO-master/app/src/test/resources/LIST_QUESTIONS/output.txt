@@ -1,0 +1,62 @@
+User ID: 1
+User ID: 2
+User ID: 3
+User ID: 4
+User ID: 5
+Event ID: 1
+Question ID: 1
+Question ID: 2
+Question ID: 3
+Question ID: 4
+QUESTION_UPVOTED 1
+QUESTION_UPVOTED 1
+QUESTION_UPVOTED 1
+QUESTION_UPVOTED 4
+QUESTION_UPVOTED 4
+REPLY_ADDED
+REPLY_ADDED
+Question ID: 1
+Content: Is the mid-hinge resistant to outliers?
+Votes: 3
+Replies:
+  - User 1: Yes. It is resistant to outliers
+
+Question ID: 4
+Content: Is the mid-range a measure of centre or a measure of variability?
+Votes: 2
+Replies:
+
+Question ID: 2
+Content: Is the mid-range resistant to outliers?
+Votes: 0
+Replies:
+  - User 1: Yes. It is resistant to outliers
+
+Question ID: 3
+Content: Is the mid-hinge a measure of centre or a measure of variability?
+Votes: 0
+Replies:
+
+ERROR: Event with an id 2 does not exist
+Question ID: 4
+Content: Is the mid-range a measure of centre or a measure of variability?
+Votes: 2
+Replies:
+
+Question ID: 3
+Content: Is the mid-hinge a measure of centre or a measure of variability?
+Votes: 0
+Replies:
+
+Question ID: 2
+Content: Is the mid-range resistant to outliers?
+Votes: 0
+Replies:
+  - User 1: Yes. It is resistant to outliers
+
+Question ID: 1
+Content: Is the mid-hinge resistant to outliers?
+Votes: 3
+Replies:
+  - User 1: Yes. It is resistant to outliers
+

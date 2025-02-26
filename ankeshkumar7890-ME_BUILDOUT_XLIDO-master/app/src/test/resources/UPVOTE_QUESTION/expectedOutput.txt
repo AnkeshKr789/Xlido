@@ -1,0 +1,7 @@
+User ID: 1
+Event ID: 1
+Question ID: 1
+QUESTION_UPVOTED 1
+ERROR: User with an id 1 has already upvoted a question with an id 1
+ERROR: Question with an id 2 does not exist
+ERROR: User with an id 2 does not exist

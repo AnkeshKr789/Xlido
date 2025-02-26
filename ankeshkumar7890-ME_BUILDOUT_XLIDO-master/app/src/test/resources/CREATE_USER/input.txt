@@ -1,0 +1,2 @@
+CREATE_USER,test1@user.com,abcd
+CREATE_USER,test2@user.com,abcdefgh

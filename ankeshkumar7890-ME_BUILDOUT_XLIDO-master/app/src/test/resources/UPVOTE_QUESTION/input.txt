@@ -1,0 +1,7 @@
+CREATE_USER,test1@user.com,abcd
+CREATE_EVENT,Event1,1
+ADD_QUESTION,Is the mid-hinge resistant to outliers?,1,1
+UPVOTE_QUESTION,1,1
+UPVOTE_QUESTION,1,1
+UPVOTE_QUESTION,2,1
+UPVOTE_QUESTION,1,2

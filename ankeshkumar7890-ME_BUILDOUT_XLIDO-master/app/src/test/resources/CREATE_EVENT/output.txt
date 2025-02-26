@@ -1,0 +1,3 @@
+User ID: 1
+Event ID: 1
+ERROR: User with an id 2 does not exist

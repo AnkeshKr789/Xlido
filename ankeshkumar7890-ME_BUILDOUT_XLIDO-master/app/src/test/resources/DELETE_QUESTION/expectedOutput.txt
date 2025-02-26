@@ -1,0 +1,9 @@
+User ID: 1
+User ID: 2
+Event ID: 1
+Question ID: 1
+Question ID: 2
+QUESTION_DELETED 1
+ERROR: User with an id 1 is not an author of question with an id 2
+ERROR: Question with an id 1 does not exist
+ERROR: User with an id 3 does not exist

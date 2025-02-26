@@ -1,0 +1,8 @@
+User ID: 1
+User ID: 2
+Event ID: 1
+Event ID: 2
+EVENT_DELETED 1
+ERROR: User with an id 2 is not a organizer of Event with an id 2
+ERROR: Event with an id 1 does not exist
+ERROR: User with an id 3 does not exist

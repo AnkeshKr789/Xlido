@@ -1,0 +1,20 @@
+CREATE_USER,test1@user.com,abcd
+CREATE_USER,test2@user.com,abcdefgh
+CREATE_USER,test3@user.com,abcdefghi
+CREATE_USER,test4@user.com,abcdefghij
+CREATE_USER,test5@user.com,abcdefghijk
+CREATE_EVENT,Event1,1
+ADD_QUESTION,Is the mid-hinge resistant to outliers?,2,1
+ADD_QUESTION,Is the mid-range resistant to outliers?,3,1
+ADD_QUESTION,Is the mid-hinge a measure of centre or a measure of variability?,4,1
+ADD_QUESTION,Is the mid-range a measure of centre or a measure of variability?,5,1
+UPVOTE_QUESTION,1,1
+UPVOTE_QUESTION,1,2
+UPVOTE_QUESTION,1,3
+UPVOTE_QUESTION,4,1
+UPVOTE_QUESTION,4,5
+REPLY_QUESTION,Yes. It is resistant to outliers,1,1
+REPLY_QUESTION,Yes. It is resistant to outliers,2,1
+LIST_QUESTIONS,1,POPULAR
+LIST_QUESTIONS,2,POPULAR
+LIST_QUESTIONS,1,RECENT
